@@ -47,6 +47,7 @@ user-dirs.locale
 gtk-2.0/*
 wal/*
 zoomus.conf
+spicetify/*
 
 # WHITELIST
 # Repo metadata
