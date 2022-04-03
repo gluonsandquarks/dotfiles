@@ -221,7 +221,7 @@ bindsym $mod+Shift+e exec ~/.config/polybar/$theme/scripts/powermenu.sh &
 #bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'"
 
 # set wallpaper
-set $bgimage ~/Pictures/wallpapers/nino.jpg
+set $bgimage ~/Pictures/wallpapers/ninym-hiding.jpg
 exec_always --no-startup-id feh --bg-fill $bgimage
 
 # Polybar
